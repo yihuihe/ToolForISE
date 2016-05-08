@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1461328303 source:e:\dpan\code_blocks_program\ise_sythesize\main.cpp
+	<stdio.h>
+	"Function.h"
+
+1461328304 e:\dpan\code_blocks_program\ise_sythesize\function.h
+
+1461501224 source:e:\dpan\code_blocks_program\ise_sythesize\tclforaddfile.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Function.h"
+
